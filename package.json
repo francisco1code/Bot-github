@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/francisco1code/Bot-github#readme",
   "dependencies": {
+    "@octokit/core": "^3.3.1",
     "dotenv": "^8.2.0",
-    "expess": "^0.0.1-security"
+    "expess": "^0.0.1-security",
+    "shelljs": "^0.8.4"
   }
 }
